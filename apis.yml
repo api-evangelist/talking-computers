@@ -1,9 +1,32 @@
 aid: talking-computers
 name: Talking Computers
-description: Talking Computers is a company surfaced as a portfolio company of y-combinator and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Talking Computers is a Y Combinator (Winter 2026) startup building Facility,
+  described as "The Workplace for AI" and delivering autonomous organizations for
+  enterprises. The company deploys fleets of AI Infrastructure Engineers that
+  collaborate over week-long time horizons, run hundreds of experiments in
+  parallel, and learn from them to optimize customers' training and inference
+  infrastructure to their specific workloads. Talking Computers reports partnering
+  with companies to speed up GPU kernels to 6x state-of-the-art and to cut the
+  latency of voice models to roughly half that of competitors. As of enrichment,
+  the company is an early-stage two-person team and publishes only a marketing
+  presence at talkingcomputers.ai (a single-page application); it exposes no public
+  API, OpenAPI definition, developer portal, documentation, or SDKs. This profile
+  was surfaced as a Y Combinator portfolio lead and enriched from verified public
+  sources.
 url: https://raw.githubusercontent.com/api-evangelist/talking-computers/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://storage.googleapis.com/gpt-engineer-file-uploads/ErukYsoDYfYATsONbdG3czeih4u2/social-images/social-1773057051560-Black_TC_logo.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,12 +35,32 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- AI Infrastructure
+- Machine Learning
+- GPU
+- Agents
+- Inference
+- Enterprise
+- Y Combinator
 apis: []
+common:
+- type: Website
+  url: https://talkingcomputers.ai
+- type: X
+  url: https://x.com/Facility
+- type: YCombinatorProfile
+  url: https://www.ycombinator.com/companies/talking-computers
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
