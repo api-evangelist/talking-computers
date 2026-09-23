@@ -1,0 +1,29 @@
+# Front Door AI Index — talking-computers — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: talking-computers
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: talkingcomputers.ai
+  final_host: talkingcomputers.ai
+  ownership: own
+  owner: talking-computers
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 7
+  host_score: 7
+  density: 31.67
+  words: 221
+  tiers:
+    agentic: 0
+    core: 7
+    model: 0
+  ambiguous: 10
+  top_terms:
+    intelligence: 6
+    AI: 4
+    agent: 4
+    artificial intelligence: 2
+    foundation model: 1
