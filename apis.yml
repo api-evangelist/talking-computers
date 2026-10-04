@@ -51,7 +51,7 @@ tags:
 - Company
 - Artificial Intelligence
 - AI Infrastructure
-- Machine-Learning
+- Machine Learning
 - GPU
 - Agents
 - Inference
@@ -67,6 +67,7 @@ tags_raw:
 - Inference
 - Enterprise
 - Y Combinator
+- Machine-Learning
 apis: []
 common:
 - type: Website
