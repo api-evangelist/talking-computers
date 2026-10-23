@@ -33,3 +33,16 @@
     status: Active
   status: not-a-workflow
   arazzo: null
+- slug: talking-computers-hugging-face-hugging-face-hub
+  label: Hugging Face (hugging-face-hub)
+  partner: hugging-face
+  partner_name: Hugging Face (hugging-face-hub)
+  category: Hugging Face Hub models
+  type: marketplace
+  marketplace: hugging-face-hub
+  channel: partner-built
+  evidence: https://huggingface.co/talkingcomputers
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
